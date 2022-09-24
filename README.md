@@ -7,3 +7,5 @@ The robot has NVIDIA Jetson Nano on board, two camera at front and back, USB ser
 ## Robot driving and run video
 Robot trial run record as online session:
 [Link to video](https://drive.google.com/file/d/18O_THjSodmW0iIljqGmkhlAPrGnNhIhx/preview)
+
+[Next: Motor Setup](https://github.com/Cinderpe1t/TBS_Robotics_RMRC_Motor_Setup) / [Top: Introduction](https://github.com/Cinderpe1t/TBS_Robotics_Introduction)
